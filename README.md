@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # eCommerce Platform Project - MERN Stack
 
 Welcome to the eCommerce Platform Project built using the MERN (MongoDB, Express.js, React, Node.js) Stack. This project provides a robust and full-featured online shopping platform with various functionalities to enhance the user experience.
@@ -195,3 +196,7 @@ Your contribution will be reviewed by the project maintainers. Be prepared to ad
 ## Thank You!
 
 Thank you for considering contributing to the eCommerce Platform Project. Your efforts help make this project better for everyone. If you have any questions or need assistance, feel free to reach out through the issue tracker or discussions. Happy coding🤩!
+=======
+# SmartShop
+Final Year Project
+>>>>>>> 3eb0d0f5c86443f983d62d183d056f67ed6290ab
